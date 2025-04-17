@@ -1,3 +1,5 @@
+![alt text](/public/image.png)
+
 # Orange - Modern Authentication System
 
 A modern authentication system built with Next.js 14, Supabase, and TypeScript.
